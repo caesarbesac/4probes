@@ -49,7 +49,7 @@ class StateMachine:
         self.regression_line = 0
 
         self.pressureLimits = [4500, 5500]
-        self.setupPath = r"put here the absolute path of the dewesoftx config path"
+        self.setupPath = r"put here the absolute path of the setup.dxs file"
 
         self.tempFileNbr = 0
         self.csvFiles = []
